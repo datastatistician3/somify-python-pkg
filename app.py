@@ -19,7 +19,7 @@ print(ec.calculate_profit(2,3))
 
 print(ec.show_cart(400, 200))
 
-print(ec.show_contact())
+print(ec.show_contact('Sam'))
 
 print(ec.print_item("Apple"))
 
